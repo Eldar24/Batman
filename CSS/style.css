@@ -192,9 +192,11 @@ body {
       margin: 0;
       list-style: none;
       padding-left: 15px;
-      text-decoration: underline;
       line-height: 150%;
   }
+  a {
+      text-decoration: none;
+      }
   .full-info {
       flex: 0.97
   }
